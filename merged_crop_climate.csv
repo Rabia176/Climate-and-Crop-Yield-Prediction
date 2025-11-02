@@ -1,0 +1,13 @@
+Country,Year,Crop,Yield_t_ha,Avg_Temp_C,Total_Rainfall_mm,Radiation_MJ_m2
+Pakistan,2010,Wheat,2.6,22.8,350,14.8
+Pakistan,2015,Wheat,2.8,23.1,360,15.0
+Pakistan,2020,Wheat,2.9,23.4,340,15.1
+India,2010,Wheat,2.9,24.5,900,17.2
+India,2015,Wheat,3.1,24.8,880,17.5
+India,2020,Wheat,3.3,25.3,910,17.8
+Bangladesh,2010,Wheat,2.5,25.6,1600,16.0
+Bangladesh,2015,Wheat,2.7,25.9,1580,16.2
+Bangladesh,2020,Wheat,2.9,26.2,1650,16.4
+Australia,2010,Wheat,3.2,16.0,450,18.5
+Australia,2015,Wheat,3.4,16.3,430,18.7
+Australia,2020,Wheat,3.6,16.5,470,18.9
